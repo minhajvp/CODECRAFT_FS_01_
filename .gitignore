@@ -1,0 +1,16 @@
+# Python
+Auth-backend-Django/__pycache__/
+Auth-backend-Django/*.pyc
+Auth-backend-Django/env/
+Auth-backend-Django/venv/
+
+# Django static files (if collected)
+Auth-backend-Django/staticfiles/
+
+# Node / React
+auth-frontend-React/node_modules/
+auth-frontend-React/dist/
+
+# Env files
+*.env
+.env
